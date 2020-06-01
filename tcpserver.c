@@ -1,15 +1,3 @@
-/*
- *  *  *  *    * tcpserver.c
- *   *   *   *    * ICS 451
- *    *    *    *    * Lab #2 Client/Server
- *     *     *     *    * Reference from YouTube: Idiot Developer
- *      *      *      *    * https://www.youtube.com/watch?v=hptViBE23fI
- *       *       *       *    * Reference from GitHub: nikhilroxtomar
- *        *        *        *    * https://github.com/nikhilroxtomar/tcp-client-server-in-C/blob/master/tcpServer.c
- *         *         *         *    * Audrey Ford
- *          *          *          *    * 2/13/2020
- *           *           *           *    */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
